@@ -2,5 +2,5 @@
   "name": "ReFindit",
   "description": "ReFindit is a bibliographic references search engine that brings together information from different sources and builds services on top of the unified data.",
   "website": "http://refindit.org/",
-  "repository": "https://github.com/biserkov/refindit",
+  "repository": "https://github.com/biserkov/refindit"
 }
