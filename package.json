@@ -18,6 +18,7 @@
 		"jslint": "~0.1.9"
 	},
 	"scripts": {
+		"start": "node app.js",
 		"test": "mocha"
 	},
 	"repository": {
