@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/{{ repository_nwo }}.svg?branch=master)](https://travis-ci.org/{{ repository_nwo }})
+
 # ReFindit #
 
 ReFindit is a bibliographic references search engine that brings together information from different sources and builds services on top of the unified data.

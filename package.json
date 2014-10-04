@@ -1,0 +1,38 @@
+{
+	"name": "refindit",
+	"version": "1.0.1",
+	"description": "ReFindit is a bibliographic references search engine that brings together information from different sources and builds services on top of the unified data.",
+	"main": "app.js",
+	"directories": {
+		"test": "test"
+	},
+	"dependencies": {
+		"json2xml": "~0.1.1",
+		"express": "~3.1.2",
+		"modules": "~0.2.5",
+		"request": "~2.21.0",
+		"xml2js": "~0.4.1"
+	},
+	"devDependencies": {
+		"mocha": "~1.12.0",
+		"jslint": "~0.1.9"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pensoft/refindit"
+	},
+	"author": "Jordan Biserkov jordan@biserkov.com",
+	"contributors": [
+		{
+			"name": "Rozalina Ilieva"
+		}
+	],
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/pensoft/refindit/issues"
+	},
+	"homepage": "http://refindit.org"
+}
