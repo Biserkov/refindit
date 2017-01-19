@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/Biserkov/refindit.svg?branch=master)](https://travis-ci.org/Biserkov/refindit)
+[![Build Status](https://travis-ci.org/Biserkov/refindit.svg?branch=master)](https://travis-ci.org/Biserkov/refindit) <a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" height="20">
+</a>
 
 # ReFindit #
 
@@ -15,7 +17,7 @@ Start finding now at [ReFindit.org](http://refindit.org).
 1. Node.js
 2. Active internet connection
 
-## Installation ##
+## Local installation ##
 
 1. Install <a href="http://nodejs.org/download/">Node.js</a>
 2. `git clone http://github.com/pensoft/refindit && cd refindit`
