@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/{{ site.github.repository_nwo }}.svg?branch=master)](https://travis-ci.org/{{ repository_nwo }})
+[![Build Status](https://travis-ci.org/Biserkov/refindit.svg?branch=master)](https://travis-ci.org/Biserkov/refindit)
 
 # ReFindit #
 
