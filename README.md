@@ -4,7 +4,7 @@
 
 # ReFindit #
 
-ReFindit is a bibliographic references search engine that brings together information from different sources and builds services on top of the unified data.
+ReFindit is a bibliographic references metasearch engine that brings together information from different sources and builds services on top of the unified data.
 
 Start finding now at [ReFindit.org](http://refindit.org).
 
