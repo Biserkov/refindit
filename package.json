@@ -1,6 +1,9 @@
 {
 	"name": "refindit",
 	"version": "1.0.1",
+	"engines": {
+		"node": "0.10"
+	}
 	"description": "ReFindit is a bibliographic references search engine that brings together information from different sources and builds services on top of the unified data.",
 	"main": "app.js",
 	"directories": {
