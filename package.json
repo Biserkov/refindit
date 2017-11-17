@@ -1,6 +1,7 @@
 {
 	"name": "refindit",
 	"version": "1.0.1",
+	"keywords": ["bibliography", "references", "crossref", "pubmed", "mendeley", "gnub", "zoobank"],
 	"engines": {
 		"node": "0.10"
 	},
